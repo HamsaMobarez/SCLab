@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hamsa");
             Console.WriteLine("Enjii");
+            Console.WriteLine("PROOO");
+            Console.ReadLine();
         }
     }
 }
