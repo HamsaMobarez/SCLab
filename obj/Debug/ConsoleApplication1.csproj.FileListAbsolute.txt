@@ -1,2 +1,3 @@
 D:\ITI\TFS\GitLab\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 D:\ITI\TFS\GitLab\bin\Debug\ConsoleApplication1.exe.config
+D:\ITI\SC\Git\SCLab\bin\Debug\ConsoleApplication1.exe.config
